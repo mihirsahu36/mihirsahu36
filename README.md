@@ -33,11 +33,11 @@
 ---
 <h3 align="left">GitHub Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsahu36&layout=compact&theme=codeSTACKr&hide_border=false" alt="Top Languages" width="49%" height=195px/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirsahu36&show_icons=true&locale=en&theme=codeSTACKr&hide_border=false" alt="GitHub Stats" width="49%"height=195px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsahu36&layout=compact&theme=algolia&hide_border=false" alt="Top Languages" width="49%" height=195px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirsahu36&show_icons=true&locale=en&theme=algolia&hide_border=false" alt="GitHub Stats" width="49%"height=195px/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirsahu36&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirsahu36&theme=algolia&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
