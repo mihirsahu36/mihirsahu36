@@ -16,16 +16,11 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mihirsahu36" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://twitter.com/mihirsahu36" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>
-  <a href="https://www.instagram.com/_mihir.sahu_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
+<a href="https://linkedin.com/in/mihirsahu36" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="mihirsahu36" width="40"/></a>
+<a href="https://twitter.com/mihirsahu36" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="mihirsahu36" width="40"/></a>
+<a href="https://www.instagram.com/_mihir.sahu_/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="mihirsahu36" width="40"/></a>
 </p>
 
 ---
