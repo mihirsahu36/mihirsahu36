@@ -33,10 +33,11 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="left"">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsahu36&layout=compact&theme=tokyonight" alt="Top Languages" height=195px/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirsahu36&show_icons=true&theme=tokyonight" alt="GitHub Stats" height=195px/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsahu36&layout=compact&theme=tokyonight" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirsahu36&show_icons=true&theme=tokyonight" height="195px"/>
 </div>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mihirsahu36&theme=tokyonight-duo" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mihirsahu36&theme=tokyonight" />
 </div>
+
