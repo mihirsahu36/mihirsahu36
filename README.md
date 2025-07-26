@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mihir Sahu</h1>
 
-<img align="right" alt="Coding" width="400" height="500"  src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="Coding" width="400" height="240"  src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirsahu36&label=Profile%20views&color=0e75b6&style=flat" alt="mihirsahu36"/> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7C7&width=435&lines=Hello+World!!" alt="Hello World!!" /></a>
 
 <h3 align="left">About me:</h3>
 
