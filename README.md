@@ -1,32 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mihir Sahu</h1>
 
-<table border="0" width="100%">
-  <tr>
-    <!-- Left Column -->
-    <td width="60%" valign="top">
+<img align="right" alt="Coding" width="400" height="340"  src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
-<img src="https://komarev.com/ghpvc/?username=mihirsahu36&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirsahu36&label=Profile%20views&color=0e75b6&style=flat" alt="mihirsahu36"/> </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7C7&width=435&lines=Hello+World!!" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7C7&width=435&lines=Hello+World!!" alt="Hello World!!" /></a>
 
-<h3>About me:</h3>
+<h3 align="left">About me:</h3>
 
-- 🌱 Currently learning Web Dev (MERN) and improving my Java & DSA skills.  
-- 📫 Reach me on LinkedIn: <a href="https://www.linkedin.com/in/mihirsahu36">www.linkedin.com/in/mihirsahu36</a>  
-- 🧩 I enjoy solving challenges that push me to grow and learn more.  
-- 🧘 In my free time, I love playing chess and exploring new places.  
-- ⚡ Quote I follow: <i>“You can do anything, but not everything. Focus.”</i>  
-
-    </td>
-
-    <!-- Right Column -->
-    <td width="40%" align="right" valign="top">
-      <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding" width="100%" />
-    </td>
-  </tr>
-</table>
+- 🌱 Currently learning Web Dev (MERN) and improving my Java & DSA skills.
+- 📫 Reach me on LinkedIn: www.linkedin.com/in/mihirsahu36
+- 🧩 I enjoy solving challenges that push me to grow and learn more.
+- 🧘 In my free time, I love playing chess and exploring new places.
+- ⚡ Quote I follow: <i>“You can do anything, but not everything. Focus.”</i>
 
 
 ---
